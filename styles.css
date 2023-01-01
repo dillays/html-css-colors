@@ -1,0 +1,58 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: Futura, sans-serif;
+}
+
+
+
+h1 {
+    width: 100%;
+    margin: 0;
+    padding: 1%;
+    background-color: #FF0000ed;
+    color: white;
+    font-size: 36px;
+    box-sizing: border-box;
+}
+
+.spectrum {
+    margin: 10px 0 0 5%;
+    box-sizing: border-box;
+}
+
+.spectrum h2 {
+    padding: 1%;
+    
+    color: white;
+    font-size: 30px;
+}
+
+#green {
+    background-color: #00FF00;
+}
+
+#blue {
+    background-color: #0000FF;
+}
+
+table {
+    position: relative;
+    margin: auto;
+}
+
+table,
+td {
+    border: 1px solid #333;
+    font-family: Avenir, sans-serif;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
